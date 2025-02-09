@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hello, friend!"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "J. Cian Capacci"
 description              : &description "I'm a Junior in Computer Engineering at Virginia Tech, specializing in Controls, Robotics, and Autonomy. Welcome to my personal website!"
